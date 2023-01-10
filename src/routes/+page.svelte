@@ -4,4 +4,6 @@
 
 <br />
 
-<a href="https://github.com/fxxk3rrth4ng/b1nk_net">Repository of this page</a>
+<a target="_blank" rel="noreferrer" href="https://github.com/fxxk3rrth4ng/b1nk_net"
+	>Repository of this page</a
+>
