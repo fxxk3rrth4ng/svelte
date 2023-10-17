@@ -16,7 +16,7 @@
 </script>
 
 <div>
-	<h1>Char converter</h1>
+	<h1>Char Converter</h1>
 	<input type="text" placeholder="Input any text" bind:value={input} /><br /><br />
 	<button on:click={charConvert}>Convert</button><button on:click={charReturn}>Return</button>
 </div>
