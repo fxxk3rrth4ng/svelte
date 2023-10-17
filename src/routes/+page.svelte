@@ -1,6 +1,6 @@
 <div>
-	<a href="./cc">Char Converter</a><br>
-	<a href="./tp">Type Practice</a>
+	<a href="cc">Char Converter</a><br>
+	<a href="tp">Type Practice</a>
 </div>
 
 
